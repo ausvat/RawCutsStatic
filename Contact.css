@@ -1,0 +1,75 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/3c630078e79346623444d02c99d53b7690378c5d1d5b80effc7212d2422c5a3528be6f0434aa4b3dc29097df5d78a0a009e2afe51f3abccaa62c56_1280.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 937px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Finesse-Flair;
+  margin: 450px 397px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Finesse-Flair;
+  width: 826px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 773px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 327px;
+    margin-right: 327px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 658px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 294px;
+    margin-right: 225px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 109px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 494px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 169px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 311px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 106px;
+  }
+}@font-face {
+  font-family: 'Finesse-Flair';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Finesse-Flair.otf);
+}
